@@ -1,3 +1,10 @@
+To Run: npm run dev
+
+Modify App.tsx to view changes on main page
+
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
